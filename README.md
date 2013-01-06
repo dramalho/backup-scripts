@@ -14,4 +14,5 @@ backup_contacts.rb - Exports your Google Contacts into an XML file
     		-h, --help                       Display this screen
 
 cron cmd example: 
+
         /bin/bash -l -c 'cd /path/to/script  && bundle exec ruby backup-google-contacts.rb -u someuser@gmail.com -p youramazingpassword /path/to/backup/folder'
