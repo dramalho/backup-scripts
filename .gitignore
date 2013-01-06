@@ -1,5 +1,5 @@
-*.gem
-*.rbc
+#*.gem
+#*.rbc
 .bundle
 .config
 coverage
@@ -16,3 +16,4 @@ tmp
 .yardoc
 _yardoc
 doc/
+vendor/ruby
